@@ -11,7 +11,7 @@ Pay bills, check balances, and manage your account securely and quickly in one p
 
 .. image:: Button.png
    :alt: homedepot.com/mycard
-   :target: https://sites.google.com/view/homedepotcommycard
+   :target: https://pre.im/?GZGqGXnYcaJ5hpkKR6ILaKNRzEHsqcvxMT4dHqLdlEkmGzDyVNAzXT09rpfhJ7hBFCjKWhqHAq
 
 .. raw:: html
 
